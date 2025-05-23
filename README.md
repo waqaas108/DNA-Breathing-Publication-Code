@@ -1,6 +1,6 @@
 # DNA-Breathing-Publication-Code
 Accompanying code repository for the DNA Breathing Publication out of the lab of Dr. Xinhe at the University of Chicago's Human Genetics Department.
-Data Repository: DOI 10.17605/OSF.IO/2UHP7 (link: [doi.org/10.17605/OSF.IO/2UHP7](doi.org/10.17605/OSF.IO/2UHP7))
+Data Repository: DOI 10.17605/OSF.IO/2UHP7 (link: [doi.org/10.17605/OSF.IO/2UHP7](https://doi.org/10.17605/OSF.IO/2UHP7))
 
 ## ChIP-seq Analysis Files
 
